@@ -1,0 +1,2 @@
+# Ignore Nix Flake's results symlinks
+result*
