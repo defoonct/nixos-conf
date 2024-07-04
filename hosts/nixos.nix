@@ -108,6 +108,7 @@
 
   environment.systemPackages = with pkgs; [
     gnomeExtensions.appindicator
+    gnomeExtensions.ddterm
     gnomeExtensions.go-to-last-workspace
     gnomeExtensions.tactile
     vim
